@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.UI.App", "src\Dev.UI.App\Dev.UI.App.csproj", "{935C842C-840D-4E28-A8D8-7F36108C5A71}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935C842C-840D-4E28-A8D8-7F36108C5A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935C842C-840D-4E28-A8D8-7F36108C5A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935C842C-840D-4E28-A8D8-7F36108C5A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935C842C-840D-4E28-A8D8-7F36108C5A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
