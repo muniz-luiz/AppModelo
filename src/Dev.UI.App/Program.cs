@@ -19,6 +19,8 @@ namespace Dev.UI.App
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseStaticFiles();
+
             // Adicionando Rota padrão
             app.MapControllerRoute(
                 name: "default",
