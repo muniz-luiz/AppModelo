@@ -242,3 +242,5 @@ C:\Users\EDUARDO\Documents\C# Programming\AppModelo\src\Dev.UI.App\bin\Debug\net
 C:\Users\EDUARDO\Documents\C# Programming\AppModelo\src\Dev.UI.App\obj\Debug\net6.0\Dev.UI.App.csproj.CopyComplete
 C:\Users\EDUARDO\Documents\C# Programming\AppModelo\src\Dev.UI.App\obj\Debug\net6.0\Dev.UI.App.RazorAssemblyInfo.cache
 C:\Users\EDUARDO\Documents\C# Programming\AppModelo\src\Dev.UI.App\obj\Debug\net6.0\Dev.UI.App.RazorAssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\AppModelo\src\Dev.UI.App\bin\Debug\net6.0\libman.json
+C:\Users\EDUARDO\Documents\C# Programming\AppModelo\src\Dev.UI.App\bin\Debug\net6.0\Dev.UI.App.staticwebassets.runtime.json
