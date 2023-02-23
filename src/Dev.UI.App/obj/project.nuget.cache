@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "OdKg2CAtwEaySJRWZQiC4gDG/Y1NREWx/l2PwvZcQOWi2Hrr7s2NLOl40yZQiyuLmMNNX0lZSQB/F5A0H/FwYw==",
+  "dgSpecHash": "RKtC1/o+y+mVwx9XYeyacTob82E1hBfMLhdaPRakohXuT04OX9ObPBAlwHpTzXOMP+4y0YynFJlcypGyXmfm1w==",
   "success": true,
   "projectFilePath": "C:\\Users\\EDUARDO\\Documents\\C# Programming\\AppModelo\\src\\Dev.UI.App\\Dev.UI.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EDUARDO\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\jetbrains.annotations\\2022.3.1\\jetbrains.annotations.2022.3.1.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.3\\microsoft.aspnetcore.metadata.7.0.3.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\EDUARDO\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",
