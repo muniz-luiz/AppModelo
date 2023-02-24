@@ -16,8 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\EDUARDO\Documents\C# Programming\AppModelo\src\Dev.UI.App
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/EDUARDO/Documents/C\# Programming/AppModelo/src/Dev.UI.App/Areas/Produtos/Views/Cadastro/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHV0b3NcVmlld3NcQ2FkYXN0cm9cSW5kZXguY3NodG1s
+[C:/Users/EDUARDO/Documents/C\# Programming/AppModelo/src/Dev.UI.App/Modulos/Produtos/Views/Cadastro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xQcm9kdXRvc1xWaWV3c1xDYWRhc3Ryb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EDUARDO/Documents/C\# Programming/AppModelo/src/Dev.UI.App/Modulos/Produtos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xQcm9kdXRvc1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EDUARDO/Documents/C\# Programming/AppModelo/src/Dev.UI.App/Modulos/Vendas/Views/Pedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xWZW5kYXNcVmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EDUARDO/Documents/C\# Programming/AppModelo/src/Dev.UI.App/Modulos/Vendas/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kdWxvc1xWZW5kYXNcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/EDUARDO/Documents/C\# Programming/AppModelo/src/Dev.UI.App/Views/Home/Index.cshtml]
